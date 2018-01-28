@@ -1,0 +1,103 @@
+blog's life from 2011 to 2015
+///////////////////////////////////////////////////////////
+current_year:2011-train_total:355
+training matrix shape:(355, 86390)
+objects with labels: (355, 37) - number of categories: 37
+test set range:[2012-2012]-test_total:328
+test matrix shape:(328, 86390)
+objects with labels: (328, 37)
+labels predicted shape:(328, 37)
+['3DS', 'Buzz', 'Casual', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Coups de Coeur', 'Craquage', 'DS', u'D\xe9ballage', 'Event', 'Figurines', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Otaku', 'PC', 'PS VITA', 'PS3', 'PS4', 'PSP', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.274390243902,0.864113651157,0.844295302013,0.841135879834
+-------------------------------------------------------
+test set range:[2012-2013]-test_total:616
+test matrix shape:(616, 86390)
+objects with labels: (616, 37)
+labels predicted shape:(616, 37)
+['3DS', 'Buzz', 'Casual', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Coups de Coeur', 'Craquage', 'DS', u'D\xe9ballage', 'Event', 'Figurines', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Otaku', 'PC', 'PS VITA', 'PS3', 'PS4', 'PSP', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.261363636364,0.871777385688,0.810548230396,0.828534724566
+-------------------------------------------------------
+test set range:[2012-2014]-test_total:870
+test matrix shape:(870, 86390)
+objects with labels: (870, 37)
+labels predicted shape:(870, 37)
+['3DS', 'Buzz', 'Casual', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Coups de Coeur', 'Craquage', 'DS', u'D\xe9ballage', 'Event', 'Figurines', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Otaku', 'PC', 'PS VITA', 'PS3', 'PS4', 'PSP', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.234482758621,0.87894018327,0.77346743295,0.80914974831
+-------------------------------------------------------
+test set range:[2012-2015]-test_total:1067
+test matrix shape:(1067, 86390)
+objects with labels: (1067, 37)
+labels predicted shape:(1067, 37)
+['3DS', 'Buzz', 'Casual', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Coups de Coeur', 'Craquage', 'DS', u'D\xe9ballage', 'Event', 'Figurines', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Otaku', 'PC', 'PS VITA', 'PS3', 'PS4', 'PSP', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.217432052484,0.877545198799,0.734435049962,0.781274231099
+-------------------------------------------------------
+0:01:20.135764
+===========================================================
+current_year:2012-train_total:328
+training matrix shape:(328, 109138)
+objects with labels: (328, 35) - number of categories: 35
+test set range:[2013-2013]-test_total:288
+test matrix shape:(288, 109138)
+objects with labels: (288, 35)
+labels predicted shape:(288, 35)
+['3DS', 'Buzz', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Cosplay', 'Coups de Coeur', 'Craquage', u'D\xe9ballage', 'Event', 'Figurines', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Nostalgie', 'Otaku', 'PC', 'PS VITA', 'PS3', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.305555555556,0.854248438437,0.805309734513,0.818100421531
+-------------------------------------------------------
+test set range:[2013-2014]-test_total:542
+test matrix shape:(542, 109138)
+objects with labels: (542, 35)
+labels predicted shape:(542, 35)
+['3DS', 'Buzz', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Cosplay', 'Coups de Coeur', 'Craquage', u'D\xe9ballage', 'Event', 'Figurines', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Nostalgie', 'Otaku', 'PC', 'PS VITA', 'PS3', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.280442804428,0.862680361177,0.776736924278,0.802831223647
+-------------------------------------------------------
+test set range:[2013-2015]-test_total:739
+test matrix shape:(739, 109138)
+objects with labels: (739, 35)
+labels predicted shape:(739, 35)
+['3DS', 'Buzz', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Cosplay', 'Coups de Coeur', 'Craquage', u'D\xe9ballage', 'Event', 'Figurines', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Nostalgie', 'Otaku', 'PC', 'PS VITA', 'PS3', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.267929634641,0.858056793781,0.733446519525,0.768998600026
+-------------------------------------------------------
+0:02:14.310824
+===========================================================
+current_year:2013-train_total:288
+training matrix shape:(288, 91953)
+objects with labels: (288, 40) - number of categories: 40
+test set range:[2014-2014]-test_total:254
+test matrix shape:(254, 91953)
+objects with labels: (254, 40)
+labels predicted shape:(254, 40)
+['3DS', 'Buzz', 'Casual', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Cosplay', 'Coups de Coeur', 'Craquage', u'D\xe9ballage', 'Event', 'Figurines', 'Free To Play', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Nostalgie', 'Otaku', 'PC', 'PS VITA', 'PS3', 'PS4', 'PSP', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox One', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.216535433071,0.875479864279,0.718844984802,0.763358192164
+-------------------------------------------------------
+test set range:[2014-2015]-test_total:451
+test matrix shape:(451, 91953)
+objects with labels: (451, 40)
+labels predicted shape:(451, 40)
+['3DS', 'Buzz', 'Casual', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Comics', 'Concours', 'Cosplay', 'Coups de Coeur', 'Craquage', u'D\xe9ballage', 'Event', 'Figurines', 'Free To Play', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Nostalgie', 'Otaku', 'PC', 'PS VITA', 'PS3', 'PS4', 'PSP', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox One', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.219512195122,0.870005015843,0.674137931034,0.727109634443
+-------------------------------------------------------
+0:02:41.933258
+===========================================================
+current_year:2014-train_total:254
+training matrix shape:(254, 87555)
+objects with labels: (254, 38) - number of categories: 38
+test set range:[2015-2015]-test_total:197
+test matrix shape:(197, 87555)
+objects with labels: (197, 38)
+labels predicted shape:(197, 38)
+['3DS', 'Buzz', 'Casual', 'Chroniques', u'Cin\xe9ma', 'Collection de Figurines', 'Concours', 'Cosplay', 'Coups de Coeur', 'Craquage', u'D\xe9ballage', 'Event', 'Figurines', 'Free To Play', 'Gaming', 'Geek', 'Hors Sujet', 'Japanimation', 'MMO', 'Mangas', 'News', 'Nostalgie', 'Otaku', 'PC', 'PS VITA', 'PS3', 'PS4', 'Preview', u'P\xe9riph\xe9riques', 'Retrogaming', 'Salons', 'Sexy', u'S\xe9ries', 'Test', 'Wii', 'Wii U', 'Xbox One', 'Xbox360']
+scores[accuracy,precision,recall,f1-measure]:
+s--0.294416243655,0.802429004532,0.861176470588,0.809752775073
+-------------------------------------------------------
+0:02:55.543043
+===========================================================
+Total time:0:02:56.283158
